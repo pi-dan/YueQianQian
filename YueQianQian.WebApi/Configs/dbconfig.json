@@ -1,0 +1,21 @@
+{
+  "DbContexts": {
+    "DbType": "MySql",
+    "SqlServer": {
+      "ConnectionString": "Data Source=192.168.123.201;Initial Catalog=yueqianqian;User Id=yueqianqian;Password=password123;"
+    },
+    "MySql": {
+      "ConnectionString": "Data Source=192.168.123.201;Port=3306;User ID=yueqianqian;Password=jPWYXarwr2662r35;Database=yueqianqian;Charset=utf8mb4;SslMode=none;Max pool size=10"
+    },
+    "PostgreSQL": {
+      "ConnectionString": "PORT=5432;DATABASE=fscms;HOST=127.0.0.1;PASSWORD=root;USER ID=postgres"
+    },
+    "Oracle": {
+      "ConnectionString": "Data Source=fscms;User Id=yueqianqian;Password=abc123456;Integrated Security=no;"
+    },
+    "Sqlite": {
+      "ConnectionString": "Data Source=|DataDirectory|\\document.db;Pooling=true;Max Pool Size=10"
+
+    }
+  }
+}
