@@ -7,6 +7,8 @@
 
 [在线体验](http://yueqianqian.20200105.xyz/ "在线书签管理系统")，体验账号：doudou。密码：123456，请文明试用，不要修改密码。
 
+部署包：https://github.com/pi-dan/YueQianQian/releases/tag/V1.0
+
 主要功能（计划）
 
 - [√] 书签管理
