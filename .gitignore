@@ -348,3 +348,11 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/YueQianQian.WebApi/wwwroot/js
+/YueQianQian.WebApi/wwwroot/index.html
+/YueQianQian.WebApi/wwwroot/img
+/YueQianQian.WebApi/wwwroot/image
+/YueQianQian.WebApi/wwwroot/icon.ico
+/YueQianQian.WebApi/wwwroot/fonts
+/YueQianQian.WebApi/wwwroot/css
+/YueQianQian.WebApi/wwwroot/config.json
